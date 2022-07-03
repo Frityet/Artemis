@@ -1,0 +1,15 @@
+{
+  "computer": 7,
+  "peripheral.computer": 3,
+  "peripheral.electrolyticSeparator": 3,
+  "peripheral.enrichmentChamber": 7,
+  "peripheral.chemicalInfuser": 2,
+  "peripheral.chemicalOxidizer": 0,
+  "peripheral.crusher": 2,
+  "peripheral.energizedSmelter": 1,
+  "peripheral.basicBin": 0,
+  "peripheral.gasBurningGenerator": 0,
+  "peripheral.rotaryCondensentrator": 0,
+  "peripheral.osmiumCompressor": 0,
+  "peripheral.metallurgicInfuser": 0
+}

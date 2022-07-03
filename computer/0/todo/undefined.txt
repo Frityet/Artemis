@@ -1,0 +1,20 @@
+[Frityet]
+[Done]
+- Silent Gear:
+    - Create knife
+    - Create template board
+    - Create pickaxe head board
+    - Create toolrod board
+    - Create reinforced iron pickage
+        - Iron tool rod
+        - Reinforced iron head
+- Farming:
+    - Get water for farm
+    - Properlly till farm
+    - Add water
+    - Fence off farm
+    - Plant seeds
+[Todo]
+- Tech mod:
+
+[tyguy]

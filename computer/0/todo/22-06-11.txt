@@ -1,0 +1,13 @@
+[Frityet]
+- [] Create "Electrical grid" facility
+    - [] Create building
+    - [X] Nuclear Reactor
+    - Wire up the generators
+    - Add computers
+[Tyler] Mekanism!!!
+    -[] Start Ethylene Production
+    -[] MINE ALOT 
+    -[] Make A Shit Ton Of Brick, Grey Concrete,
+And Stone Brick
+    -[] Make Factory Space
+    -[] Make A Simple Fission Reactor
